@@ -3,9 +3,9 @@ div{border: solid 3px pink;margin:5px;
 #b1 {background:lightyellow;width:100%;}
 #b2{border-color:pink;margin:2px;}
 
-#b3{width: 25%;float:left;background:lightgrey;padding:5px;width:25%;}
-#b4{width: 60%;float:left;background:lightgrey;padding:5px; width:20%;}
-#b5{width: 13%;float:left;background:lightgrey;padding:2px; width:10%;}
+#b3{float:left;background:lightgrey;padding:5px;width:25%;}
+#b4{float:left;background:lightgrey;padding:5px; width:20%;}
+#b5{float:left;background:lightgrey;padding:2px; width:10%;}
 
 #b6 {clear:both;margin: 5px;}
 
