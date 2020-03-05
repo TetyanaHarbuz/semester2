@@ -1,11 +1,11 @@
 div{border: solid 3px pink;margin:5px;
   background: lightblue;}
 #b1 {background:lightyellow;width:100%;}
-#b2{border-color:pink;margin:2px;}
+#b2{border-color:#e8ceec;margin:2px;}
 
 #b3{float:left;background:lightgrey;padding:5px; width:25%;}
 #b4{float:left;background:lightgrey;padding:5px; width:20%;}
-#b5{float:left;background:lightgrey;padding:5px; width:40%;}
+#b5{float:left;background:lightgrey;padding:5px;}
 
 #b6 {clear:both;margin: 5px;}
 
